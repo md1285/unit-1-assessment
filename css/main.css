@@ -28,6 +28,12 @@ button {
     font-size: 2em;
 }
 
+button:hover {
+    color: gray;
+    background-color: white;
+
+}
+
 main {
     height: 100px;
     width: 300px;
